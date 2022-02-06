@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanjeev003
+- 👋 Hi, I’m sanjeev_kumar
 - 👀 I’m interested in Web Development and Python
 - 🌱 I’m currently learning Python esentials for Data science
 - 💞️ I’m looking to collaborate on Web Development and python projects
