@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Sanjeev..!
-- 👀 Part time CODER(c/c++/Python) , Part time DEVELOPER ,  part time EDITOR...
+- 👀 Part time CODER(c/c++/Python) , Part time DEVELOPER ,  Part time EDITOR...
 - 🌱 Full time LEARNER
 - 💞️ DS and AI student at Vignan's institute of information technolgy
 - 📫 How to reach me--> sanjeevkumaroff003@gmail.com
