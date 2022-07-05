@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sanjeev_kumar
+- 👋 Hey, I’m Sanjeev..!
 - 👀 Part time CODER(c/c++/Python) , Part time DEVELOPER...
 - 🌱 Full time LEARNER
 - 💞️ DS and AI student at Vignan's institute of information technolgy
