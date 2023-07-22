@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Dhansuya Sanjeev Kumar</h1>
 <h3 align="center">From India</h3>
-
+<img align="right" width = "400"  src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 <p align="left"> <a href="https://twitter.com/sanjeevkumardg" target="blank"><img src="https://img.shields.io/twitter/follow/sanjeevkumardg?logo=twitter&style=for-the-badge" alt="sanjeevkumardg" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
